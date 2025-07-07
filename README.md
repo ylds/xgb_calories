@@ -1,7 +1,3 @@
-Sure! Here’s the same README text with some handy emojis/icons added for a friendly, modern GitHub style:
-
----
-
 # 🔍 Feature Engineering & Model Insights
 
 This project demonstrates a structured approach to improving calorie expenditure prediction using Gradient Boosting (XGBoost). The workflow includes:
@@ -30,7 +26,3 @@ This project demonstrates a structured approach to improving calorie expenditure
 The final model achieved a cross-validated RMSE of approximately **0.0600**, indicating strong predictive accuracy. Feature engineering significantly enhanced the model’s ability to learn meaningful interactions without overfitting.
 
 This workflow balances **performance**, **interpretability**, and **computational efficiency**, demonstrating effective use of structured data and model diagnostics.
-
----
-
-If you want, I can help you add visuals or example code snippets next!
