@@ -23,12 +23,15 @@ This project demonstrates a structured approach to improving calorie expenditure
 
 ## 🏆 Final Result
 
-The final model achieved a cross-validated RMSE of approximately **0.0600**, indicating strong predictive accuracy. Feature engineering significantly enhanced the model’s ability to learn meaningful interactions without overfitting.
+The final model achieved a cross-validated RMSE (Root Mean Squared Error) of approximately 0.0600, which means its predictions were very close to the actual results. This strong accuracy came from applying feature engineering — the process of creating new, meaningful variables from the data. It allowed the model to capture important interactions between factors, like how a person’s age and job type together influence the likelihood of subscribing, all while avoiding overfitting.
 
 ## EDA
 
-Distribution of the calories
+Distribution of the calories, right tailed.
+
 <img width="730" height="566" alt="image" src="https://github.com/user-attachments/assets/6041a760-abb7-4d4e-9eb1-da74fd479e9e" />
 
+The correlation matrix reveals strong relationships between weight and height, as well as heart rate and duration. These patterns suggest potential for pairwise interactions, where combining these features could enhance the predictive power of the model.
 
+<img width="842" height="752" alt="image" src="https://github.com/user-attachments/assets/0008acfb-e093-4a00-9f8f-dc89717e6b8e" />
 
