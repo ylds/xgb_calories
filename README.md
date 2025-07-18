@@ -27,11 +27,12 @@ The final model achieved a cross-validated RMSE (Root Mean Squared Error) of app
 
 ## EDA
 
-Distribution of the calories, right tailed.
+Fig 1.  Distribution of the calories, right tailed.
 
 <img width="730" height="566" alt="image" src="https://github.com/user-attachments/assets/6041a760-abb7-4d4e-9eb1-da74fd479e9e" />
 
-The correlation matrix reveals strong relationships between weight and height, as well as heart rate and duration. These patterns suggest potential for pairwise interactions, where combining these features could enhance the predictive power of the model.
+
+Fig 2. The correlation matrix reveals strong relationships between weight and height, as well as heart rate and duration. These patterns suggest potential for pairwise interactions, where combining these features could enhance the predictive power of the model.
 
 <img width="842" height="752" alt="image" src="https://github.com/user-attachments/assets/0008acfb-e093-4a00-9f8f-dc89717e6b8e" />
 
