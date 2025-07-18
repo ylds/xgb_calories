@@ -26,6 +26,8 @@ This project demonstrates a structured approach to improving calorie expenditure
 The final model achieved a cross-validated RMSE of approximately **0.0600**, indicating strong predictive accuracy. Feature engineering significantly enhanced the model’s ability to learn meaningful interactions without overfitting.
 
 ## EDA
+
+Distribution of the calories
 <img width="730" height="566" alt="image" src="https://github.com/user-attachments/assets/6041a760-abb7-4d4e-9eb1-da74fd479e9e" />
 
 
